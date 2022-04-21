@@ -30,6 +30,7 @@ Email: jocelin@nexpcb.com
 - Winter
 - June
 - Lemon
+- [Bala](https://github.com/oh-bala)
 
 2. Invite user to organization
 
